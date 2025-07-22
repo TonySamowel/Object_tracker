@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Real-Time Vehicle Tracking with YOLOv12 & OCSORT
 
 ## Overview
@@ -54,3 +55,6 @@ ffmpeg -i results/test_run/car.avi -vcodec libx264 results/test_run/output.mp4
 - Sample video: CC BY 3.0
 
 *Tested: Dec 3, 2023 – Google Colab Pro (T4 GPU)*
+=======
+# Object_tracker
+>>>>>>> 8c9b5ad41a9f7b97a06a3f5465d35489a2a1ae93
